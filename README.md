@@ -19,10 +19,9 @@
 
 - **HTML5** — для структурирования страницы.
 - **CSS3** — для стилизации интерфейса.
-- **JavaScript** — для добавления интерактивности.
 - **Git** — для контроля версий.
 - **GitHub Pages** — для размещения проекта в интернете.
 
 ## Ссылка на GitHub Pages
 
-Проект доступен по ссылке: [GitHub Pages]([https://your-username.github.io/your-project](https://www.notion.so/32788023e1bd410fa28f4140e4b2c138?pvs=21))
+Проект доступен по ссылке: [GitHub Pages](https://tamiris15.github.io/russian-travel-master/)
